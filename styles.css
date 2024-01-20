@@ -1,0 +1,29 @@
+div.mycontainer {
+  width: 100%;
+  overflow: auto;
+}
+div.mycontainer div {
+  width: 33%;
+  float: left;
+}
+#p7 {
+  color: rgb(146, 98, 98);
+}
+#p3 {
+  color: brown;
+}
+hr.class-1 {
+  border-top: 3px solid #211c1c;
+}
+hr.class-1 {
+  border-top: 3px solid #211c1c;
+}
+#t1 {
+  text-align: right;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+#h1{
+    text-align: right;
+
+}
